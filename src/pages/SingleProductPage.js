@@ -185,28 +185,8 @@ line-height: 54px;
     line-height: 2;
     max-width: 45em;
   }
-  .info {
-    text-transform: capitalize;
-    width: 100px;
-    display: grid;
-    grid-template-columns: 85px 1fr;
-    span {
-      font-weight: 700;
-    }
-  }
+ 
 
-  /* hr {
-    margin-top: 10px;
-  } */
-  .info2 {
-    text-transform: capitalize;
-    width: 100px;
-    display: grid;
-    grid-template-columns: 85px 1fr;
-    span {
-      font-weight: 700;
-    }
-  }
 
 
 .simp {

@@ -36,6 +36,7 @@ Global Styles
   padding: 0;
   box-sizing: border-box;
 }
+
 @media (max-width: 776px) { 
   ::-webkit-scrollbar {
     display: none;
@@ -44,7 +45,7 @@ Global Styles
 }
 body {
   font-family: 'Poppins', sans-serif;
-  background: var(--clr-white);
+  background:white;
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;

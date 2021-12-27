@@ -12,6 +12,7 @@ import Sort from './Sort'
 import CartContent from './CarContent'
 import SecondNavbar from './SecondNavbar';
 import Popup from './PopUp';
+import Pagination from './Pagination'
 export {
   Navbar,
   CartButtons,
@@ -27,5 +28,5 @@ export {
   Sort,
   CartContent,
   SecondNavbar,
-
+  Pagination
 }
