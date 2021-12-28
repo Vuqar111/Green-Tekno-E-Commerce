@@ -41,21 +41,19 @@ const CartItem = ({ id, image, name, color, price, amount, company }) => {
   );
 };
 const Wrapper = styled.article` 
-  width: 100%;
-  display: flex;
-  align-items: center;   
-  justify-content: space-between;
-   margin-top: 10px;
-   padding-bottom: 10px;
-   border-bottom: 1px solid var(--black);
-     
-
-  .row{
-    width: 700px;
+    width: 90%;
+    margin: auto;
+    border: none;
+    padding: 0px;
     display: flex;
-    align-items: center;
+    align-item: center;
     justify-content: space-between;
-  }
+    
+    .row {
+      width: 260px;
+      margin: 0px;
+      padding: 0px;
+    }
   .small {
     width: 70px;
     height: 70px;
