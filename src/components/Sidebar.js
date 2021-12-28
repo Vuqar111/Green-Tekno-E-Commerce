@@ -112,7 +112,7 @@ color: #00A651;
     left: 0;
     width: 100%;
     height: 100%;
-    background: var(--clr-white);
+    background: white;
     transition: var(--transition);
     transform: translate(-100%);
     z-index: -1;
